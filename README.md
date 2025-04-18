@@ -49,6 +49,12 @@ This project presents a comprehensive Power BI dashboard that visualizes and ana
 
 ---
 
+# Screenshot of the Dashboard
+
+![Dashboard](https://raw.githubusercontent.com/kunalrathiaf/PrimeVideo-Dashboard/main/dashboard.png)
+
+---
+
 ## Author
 
 **Your Name**  
